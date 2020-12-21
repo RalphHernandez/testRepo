@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: #34495e;
+}
+.background{
+	width: 300px;
+	height: 500px;
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	background: #191919;
+}
